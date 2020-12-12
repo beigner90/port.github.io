@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+.fa, .fas {
+    font-family: "Font Awesome 5 Pro" ! important;
+}
+
 body {
     background:  #c8bbb9;
     font-family: "Times New Roman", Times, serif;
